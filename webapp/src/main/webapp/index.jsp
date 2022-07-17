@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h2> updated 17/07/2022 4:45pm </h2>
+<h1> MY FIRST JENKINS CI PIPELINE   </h1>
+<h2> TODAY IS SUNDAY </h2>
+<h2> HAVEFUN </h2>
+<h2> updated 17/07/2022 4:49pm </h2>
