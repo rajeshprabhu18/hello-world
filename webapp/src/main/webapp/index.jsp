@@ -1,4 +1,4 @@
 <h1> MY FIRST JENKINS CI PIPELINE   </h1>
 <h2> TODAY IS SUNDAY </h2>
 <h2> HAVEFUN </h2>
-<h2> updated 17/07/2022 <B>5:09PM</B> </h2>
+<h2> updated 17/07/2022 5:10PM </h2>
